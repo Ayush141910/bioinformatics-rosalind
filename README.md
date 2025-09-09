@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+Ayush Meshram + 1002257745 + BIOL5340-001
